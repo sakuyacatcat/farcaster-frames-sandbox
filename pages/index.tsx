@@ -10,10 +10,10 @@ const Home = () => {
           content="This is an about page of our example Next.js application with meta tags."
         />
         {/* Open Graph / Facebook */}
-        <meta
+        {/* <meta
           property="og:image"
           content="https://fc-dev-call.replit.app/image"
-        />
+        /> */}
         {/* Custom fc:frame tags */}
         <meta property="fc:frame" content="vNext" />
         <meta
