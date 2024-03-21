@@ -11,11 +11,6 @@ const About = () => {
           content="This is an about page of our example Next.js application with meta tags."
         />
         {/* Open Graph / Facebook */}
-        <meta property="og:title" content="About Page" />
-        <meta
-          property="og:description"
-          content="This is an about page of our example Next.js application with meta tags."
-        />
         <meta
           property="og:image"
           content="https://fc-dev-call.replit.app/image"
